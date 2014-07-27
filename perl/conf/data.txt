@@ -1,0 +1,13 @@
+#染色体 - 染色体编号 图显示名称 起始 结束 颜色
+chr	-	KCA1	KCA1	0	3426323	chr1                        #deepskyblue
+chr	-	FL_scaffold1_size993479	scaffold1	0	993479	chr2 	#aqua
+chr	-	FL_scaffold2_size680302	scaffold2	0	680302	chr3	#bisque
+chr	-	FL_scaffold3_size620519	scaffold3	0	620519	chr4	#blueviolet
+chr	-	FL_scaffold4_size498925	scaffold4	0	498925	chr5	#gold
+chr	-	FL_scaffold5_size217109	scaffold5	0	217109	chr6	#deeppink
+chr	-	FL_scaffold6_size201397	scaffold6	0	201397	chr7	#greenyellow
+chr	-	FL_scaffold7_size147308	scaffold7	0	147308	chr8	#hkaki
+chr	-	FL_scaffold8_size111541	scaffold8	0	111541	chr9	#orangered
+chr	-	FL_scaffold9_size87550	scaffold9	0	87550	chr10	#olive
+chr	-	FL_scaffold10_size72526	scaffold10	0	72526	chr11	#orange
+chr	-	FL_scaffold11_size23314	scaffold11	0	23314	chr12	#mediumblue

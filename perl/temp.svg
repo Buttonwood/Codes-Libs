@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="900" width="900" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rect height="10" width="841.625531868438" x="1" y="50" />
+	<rect height="10" width="244.033411845621" x="1" y="100" />
+	<rect height="10" width="167.106117135239" x="244.033411845621" y="100" />
+	<rect height="10" width="152.421308034727" x="167.106117135239" y="100" />
+	<rect height="10" width="122.553541650177" x="152.421308034727" y="100" />
+	<rect height="10" width="53.3296124149488" x="122.553541650177" y="100" />
+	<rect height="10" width="49.470192168604" x="53.3296124149488" y="100" />
+	<rect height="10" width="36.1840298910744" x="49.470192168604" y="100" />
+	<rect height="10" width="27.3983957292227" x="36.1840298910744" y="100" />
+	<rect height="10" width="21.5053616705377" x="27.3983957292227" y="100" />
+	<rect height="10" width="17.8149384410899" x="21.5053616705377" y="100" />
+	<rect height="10" width="5.72673902897677" x="17.8149384410899" y="100" />
+	<!-- 
+	Generated using the Perl SVG Module V2.59
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+ -->
+</svg>
